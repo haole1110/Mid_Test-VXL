@@ -9,9 +9,9 @@
 #define INC_SOFTWARE_TIMER_H_
 
 extern int timer1_flag; //Blinky
-extern int timer2_flag; // Auto
-extern int timer3_flag; //7seg
-extern int timer4_flag; //sec
+extern int timer2_flag; // Auto_Mode
+extern int timer3_flag; //Count_Down
+extern int timer4_flag;
 
 void setTimer1(int duration);
 
