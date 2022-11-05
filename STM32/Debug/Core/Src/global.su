@@ -1,0 +1,2 @@
+global.c:17:6:display7segment	16	static
+global.c:111:6:decrease_1sec	8	static
